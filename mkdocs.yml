@@ -1,14 +1,14 @@
 # Project information
-site_name: Pierre-Etienne's data science portfolio
-site_url: https://petoulemmonde.github.io/
-site_author: Pierre-Etienne Toulemonde
+site_name: Johnson Mabgwe's data science portfolio
+site_url: https://mabgwej.github.io/
+site_author: Johnson Mabgwe
 site_description: >-
-  I'am Pierre-Etienne Toulemonde, PharmD and Data scientist, and you are here on my data science portfolio
+  I'am Johnson Mabgwe, Product Technical Lead and Data scientist, and you are here on my data science portfolio
 
 
 # Repository
-repo_name: petoulemonde/petoulemonde.github.io
-repo_url: https://github.com/petoulemonde/petoulemonde.github.io
+repo_name: mabgwej/mabgwej.github.io
+repo_url: https://github.com/mabgwej/mabgwej.github.io
 
 # Configuration
 theme:
@@ -18,7 +18,7 @@ theme:
 extra:
   analytics:
     provider: google
-    property: G-4PZ4G86YR0
+    property: <>
 
 # Page tree
 nav:
