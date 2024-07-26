@@ -1,8 +1,8 @@
-# Welcome to Pierre-Etienne's data science portfolio
+# Welcome to Johnson Mabgwe's data science portfolio
 
 ## My journey
 
-I'm a pharmacist, but above all I'm passionate about data science in all its facets: from EDA with table description packages to visualization using the latest web technologies, via modeling including AI.
+I'm a Project Technical Lead, but above all I'm passionate about data science in all its facets: from EDA with table description packages to visualization using the latest web technologies, via modeling including AI.
 
 ## Current projects
 
