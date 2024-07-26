@@ -8,7 +8,7 @@ I'm a Project Technical Lead, but above all I'm passionate about data science in
 
 To catalog all the open data available in France, I maintain a catalog of open data in France (the site is in French).
 
-Link : [https://petoulemonde.github.io/catalogue-open-data-sante](https://petoulemonde.github.io/catalogue-open-data-sante)
+Link : [https://mabgwej.github.io/catalogue-open-data-sante](https://mabgwej.github.io/catalogue-open-data-sante)
 
 ## Previous projects
 Projects are sorted from most recent to oldest.
